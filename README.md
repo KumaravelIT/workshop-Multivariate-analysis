@@ -11,8 +11,8 @@ To perform multivarient analysis on the given data set.
 Developed by:KUMARAVEL R
 
 Register Number:212221220029
-Bivariate analysis
 ```
+Bivariate analysis
 import pandas as pd
 import numpy as np
 import seaborn as sns
