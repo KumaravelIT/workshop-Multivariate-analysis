@@ -61,19 +61,46 @@ Info
 Null values
 
 
-After cleaning
+After cleaning  
+
+
 Shape
+
+
 Skew
+
+
 Kurtosis
+
+
 Scatterplot for numerical and numerical
+
+
 Boxplot for numerical and catagorical
+
+
 Displot
+
+
 Barplot
+
+
 Multivariate analysis
+
 Price and Source
+
+
 Price and Dep_Time
+
+
 Price and Airline
+
+
 Corr()
+
+
 Heatmap
+
+
 # Result
 Thus the Bivariate and Multivariate analysis is observerd for the given data set.
