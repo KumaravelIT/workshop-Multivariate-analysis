@@ -127,6 +127,8 @@ Price and Airline
 Corr()
 
 ![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/9999999.jpg)
+
+
 Heatmap
 
 ![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/99999999.jpg)
