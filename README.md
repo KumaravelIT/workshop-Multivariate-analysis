@@ -54,52 +54,80 @@ sns.heatmap(df.corr(),annot=False)
 Bivariate analysis
 Dataset
 
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/1.jpg)
+
 
 Info
+
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/2.jpg)
 
 
 Null values
 
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/3.jpg)
+
 
 After cleaning  
+
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/4.jpg)
 
 
 Shape
 
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/5.jpg)
+
 
 Skew
+
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/6.jpg)
 
 
 Kurtosis
 
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/7.jpg)
+
 
 Scatterplot for numerical and numerical
+
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/8.jpg)
 
 
 Boxplot for numerical and catagorical
 
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/9.jpg)
+
 
 Displot
+
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/99.jpg)
 
 
 Barplot
 
-
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/999.jpg)
 Multivariate analysis
 
 Price and Source
 
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/9999.jpg)
+
 
 Price and Dep_Time
+
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/99999.jpg)
 
 
 Price and Airline
 
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/999999.jpg)
+
 
 Corr()
 
-
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/9999999.jpg)
 Heatmap
+
+![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/99999999.jpg)
 
 
 # Result
