@@ -52,6 +52,7 @@ sns.heatmap(df.corr(),annot=False)
 ```
 # Output
 Bivariate analysis
+
 Dataset
 
 ![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/1.jpg)
@@ -105,8 +106,9 @@ Displot
 Barplot
 
 ![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/999.jpg)
-Multivariate analysis
 
+
+Multivariate analysis
 Price and Source
 
 ![](https://github.com/KumaravelIT/workshop-Multivariate-analysis/blob/main/9999.jpg)
